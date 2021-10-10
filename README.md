@@ -1,4 +1,4 @@
-# Oracle Log Table DML activities logging package and log table demo with USERS table..
+# Oracle Log Table DML activities with package and log table, also demo with USERS table..
 
     Author      : Orhan Çavuş
     Last Update : 10.10.2021
